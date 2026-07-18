@@ -1,0 +1,6 @@
+{
+  "name": "HKDSE Economics: Government Intervention & Efficiency",
+  "description": "An interactive full-stack learning platform for HKDSE Economics students, featuring interactive graphs, concept guides, case studies, and an AI-powered short-answer marking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
